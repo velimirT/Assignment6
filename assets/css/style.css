@@ -42,15 +42,16 @@ body{
 	width: 100%;
 	left: 0;
 	top: 0px;
-	padding-top: calc(50% - 90px);
 	background: rgba(255, 255, 255, 0.8);
 	height: 100%;
 	font-size: 40px;
 	box-sizing: border-box;
+	padding: 0 40px;
+	padding-top: calc(50% - 90px);
 }
 
 .container .popup.failed_answer{
-	padding-top: calc(50% - 170px);
+	padding-top: calc(50% - 200px);
 }
 
 
