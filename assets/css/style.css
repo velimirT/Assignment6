@@ -46,8 +46,8 @@ body{
 	height: 100%;
 	font-size: 40px;
 	box-sizing: border-box;
-	padding: 0 40px;
 	padding-top: calc(50% - 90px);
+	padding: 0 40px;
 }
 
 .container .popup.failed_answer{
